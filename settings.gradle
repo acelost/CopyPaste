@@ -1,0 +1,2 @@
+include ':app', ':copy-paste'
+rootProject.name='CopyPaste'

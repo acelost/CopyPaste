@@ -72,5 +72,5 @@ implementation 'com.acelost.copy-paste:copy-paste:0.0.1'
     See the License for the specific language governing permissions and
     limitations under the License.
     
-[bintray-android-builder]: https://bintray.com/acelost/CopyPaste/copy-paste
+[bintray-copy-paste]: https://bintray.com/acelost/CopyPaste/copy-paste
 [bintraybadge-svg]: https://img.shields.io/bintray/v/acelost/CopyPaste/copy-paste.svg

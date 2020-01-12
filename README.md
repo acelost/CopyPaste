@@ -4,7 +4,7 @@
 
 ## How to use
 
-Use `PasteRequests` class to build one of existing clipboard services:
+Use `PasteRequests` class to build request to one of existing clipboard services:
 
 ```java
 public void myFirstPaste() {
@@ -12,6 +12,10 @@ public void myFirstPaste() {
     CopyPaste.getInstance().paste(context, request);
 }
 ```
+
+Access link will be printed in LogCat:
+
+<img src="copy-paste-log-output.png" width="800">
 
 Use second parameter of `CopyPaste.paste` method to pass custom listener:
 
@@ -31,11 +35,6 @@ public void myCustomListener() {
     CopyPaste.getInstance().paste(context, request);
 }
 ```
-
-Access link will be printed in LogCat:
-
-
-<img src="copy-paste-log-output.png" width="800">
 
 Also you can build request to any service you want:
 

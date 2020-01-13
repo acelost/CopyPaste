@@ -53,7 +53,7 @@ public void myCustomPaste() {
 ## How to integrate
 
 ```groovy
-implementation 'com.acelost.copy-paste:copy-paste:0.0.1'
+implementation 'com.acelost.copy-paste:copy-paste:0.0.2'
 ```
 
 ## License

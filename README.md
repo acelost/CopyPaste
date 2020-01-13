@@ -1,6 +1,6 @@
 # CopyPaste
 
-[![Bintray][bintraybadge-svg]][bintray-android-builder]
+[![Bintray][bintraybadge-svg]][bintray-copy-paste]
 
 ## How to use
 
@@ -72,5 +72,5 @@ implementation 'com.acelost.copy-paste:copy-paste:0.0.2'
     See the License for the specific language governing permissions and
     limitations under the License.
     
-[bintray-android-builder]: https://bintray.com/acelost/CopyPaste/copy-paste
-[bintraybadge-svg]: https://img.shields.io/bintray/v/acelost/CopyPate/copy-paste.svg
+[bintray-copy-paste]: https://bintray.com/acelost/CopyPaste/copy-paste
+[bintraybadge-svg]: https://img.shields.io/bintray/v/acelost/CopyPaste/copy-paste.svg
